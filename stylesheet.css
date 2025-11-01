@@ -1,3 +1,7 @@
+html {
+  font-size: clamp(16px, 1vw, 22px);
+}
+
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
@@ -80,16 +84,16 @@ th,
 tr,
 p {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 h2 {
